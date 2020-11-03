@@ -1,0 +1,15 @@
+name: protonmail
+dependencies:
+    - python>=3.7
+    - matplotlib
+    - pandas
+    - xlrd
+    - pandas-profiling
+    - numpy
+    - seaborn
+    - scikit-learn
+    - mlxtend
+    - scipy
+    - jupyterlab
+    - pip:
+        - lifetimes
